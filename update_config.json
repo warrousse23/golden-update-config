@@ -1,0 +1,10 @@
+{
+  "availableVersion": "1.1",
+  "availableBuild": "2",
+  "releaseNotes": [
+    "Amélioration visuelle des fenêtres principales.",
+    "Fenêtres plus claires pour Transactions, Relevés et Réglages.",
+    "Meilleure cohérence des petites fenêtres et du menu.",
+    "Préparation du système pour les futures mises à jour."
+  ]
+}
